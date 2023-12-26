@@ -3,3 +3,4 @@ __pycache__
 /turtorial08/data.csv
 /turtorial10/model/isolation_forest.joblib
 /turtorial11/SUSY.csv.gz
+*.csv
